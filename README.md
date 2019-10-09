@@ -1,1 +1,1 @@
-"# Student-Managment-Application" 
+# Student-Managment-Application
