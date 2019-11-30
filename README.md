@@ -1,3 +1,11 @@
 # Student-Managment-Application
-## Frontend on React
-## Backend on Node
+## Frontend:
+- React
+- HTML5
+- css3
+- Bootstrap
+
+## Backend
+- Node
+- Exprees
+- MySQL
